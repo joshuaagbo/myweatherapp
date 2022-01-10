@@ -1,0 +1,24 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #3b5998;
+  font-family: Quicksand;
+}
+
+.App-header {
+  height: 67px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #3b59a0;
+}
+
+.App-header .Header-title {
+  color: #e5e5e5;
+  font-size: 27px;
+  font-weight: bold;
+}
